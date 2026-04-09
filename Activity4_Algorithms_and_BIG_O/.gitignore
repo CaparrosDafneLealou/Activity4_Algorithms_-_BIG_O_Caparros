@@ -2,3 +2,6 @@
 .vscode/
 __pycache__/
 *.pyc
+/*
+!Activity4_Algorithms_and_BIG_O/
+!.gitignore
